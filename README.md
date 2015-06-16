@@ -23,6 +23,10 @@ Designed by @ThomasLee969.
 
 ## git-flow 练习
 
+[git-flow 的提出，英文原版](http://nvie.com/posts/a-successful-git-branching-model/)
+
+[中文版](http://www.ruanyifeng.com/blog/2012/07/git.html)
+
 ### Feature
 
 你要为这个仓库实现一个新的 feature：
