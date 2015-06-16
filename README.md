@@ -68,3 +68,10 @@ Fork 本仓库，在别人的游戏建议文件中吐槽，发起 Pull Request
 - [ ] weiyh14
 - [ ] Silverbottle
 - [x] @ThomasLee969
+
+
+## git 教程
+
+[Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+[git - 简明教程](http://rogerdudler.github.io/git-guide/index.zh.html)
