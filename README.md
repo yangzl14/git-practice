@@ -10,6 +10,7 @@
 
 Designed by @ThomasLee969.
 
+
 ## git 练习
 
 1. 从 develop 分支上创建一个新分支，名字为你的 GitHub 用户名
@@ -18,6 +19,7 @@ Designed by @ThomasLee969.
 4. revert 掉步骤 2 对应的提交
 5. 将你的这个分支 merge 进 develop 分支，**No fast-forward**
 6. push 你的分支和 develop 分支
+
 
 ## git-flow 练习
 
@@ -39,9 +41,12 @@ Designed by @ThomasLee969.
 
 ### Issue
 
-### Fork
+新开 issue 向大家问好，在其中分别 @ 队式17全体成员，你所在的组的成员，以及硕霸（@Gaffey）
 
-### Pull Request
+### Fork & Pull Request
+
+Fork 本仓库，在别人的游戏建议文件中吐槽，发起 Pull Request
+
 
 ## 完成进度
 
