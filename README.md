@@ -12,12 +12,28 @@ Designed by @ThomasLee969.
 
 ## git 练习
 
-### commit
-### branch
-### merge
-### revert
+1. 从 develop 分支上创建一个新分支，名字为你的 GitHub 用户名
+2. 在 README.md 里把这一个步骤改成”好好复习期末考试“，带上合适的 commit message 进行 commit
+3. 添加一个文件，里面写上对游戏主题的建议，同上要求 commit
+4. revert 掉步骤 2 对应的提交
+5. 将你的这个分支 merge 进 develop 分支，**No fast-forward**
+6. push 你的分支和 develop 分支
 
 ## git-flow 练习
+
+### Feature
+
+你要为这个仓库实现一个新的 feature：
+
+    README.md 中出现的所有 GitHub 用户名前加上 @（例如 @ThomasLee969）
+
+请用 git-flow 的方式实现，注意：Feature 实现后删除分支，若 push 过则也要在远程删除分支
+
+### Release
+
+你要将当前的 develop 分支发布，版本号为 `v1.0-你的用户名`，例如 `v1.0-ThomasLee969`
+
+请用 git-flow 的方式实现
 
 ## GitHub 练习
 
