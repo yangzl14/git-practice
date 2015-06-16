@@ -13,7 +13,7 @@ Designed by @ThomasLee969.
 ## git 练习
 
 1. 从 develop 分支上创建一个新分支，名字为你的 GitHub 用户名
-2. 在 README.md 里把这一个步骤改成”好好复习期末考试“，带上合适的 commit message 进行 commit
+2. 在 README.md 随意进行吐槽，带上合适的 commit message 进行 commit
 3. 添加一个文件，里面写上对游戏主题的建议，同上要求 commit
 4. revert 掉步骤 2 对应的提交
 5. 将你的这个分支 merge 进 develop 分支，**No fast-forward**
