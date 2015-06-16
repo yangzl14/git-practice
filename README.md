@@ -27,7 +27,7 @@ Designed by @ThomasLee969.
 
 你要为这个仓库实现一个新的 feature：
 
-    README.md 中出现的所有 GitHub 用户名前加上 @（例如 @ThomasLee969）
+    README.md 中自己的 GitHub 用户名前加上 @（例如 @ThomasLee969）
 
 请用 git-flow 的方式实现，注意：Feature 实现后删除分支，若 push 过则也要在远程删除分支
 
