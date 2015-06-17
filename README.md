@@ -81,3 +81,5 @@ Fork 本仓库，在别人的游戏建议文件中吐槽，发起 Pull Request
 [git - 简明教程](http://rogerdudler.github.io/git-guide/index.zh.html)
 
 [GitHub 官方支持的在线教程](https://try.github.io)
+
+### Gaffey：我是来吐槽的，你确定大家知道如何打开.md……
