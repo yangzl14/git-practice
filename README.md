@@ -1,6 +1,6 @@
-# Git Practice
+﻿# Git Practice
 
-大家都知道了，git 在开发的过程中十分，十分，十分重要 = =
+大家都知道了，git 在开发的过程中十分，十分，十分（重要的话说三遍）重要 = =
 
 为了确保大家全部都会用 git & GitHub, 并对基于 git-flow 的开发流程有一定的了解，特意弄了这个练习。
 
@@ -55,7 +55,7 @@ Fork 本仓库，在别人的游戏建议文件中吐槽，发起 Pull Request
 ## 完成进度
 
 - [ ] huangxf14
-- [ ] cai-lw
+- [x] cai-lw	（蛤蛤蛤我是第一个完成的 >_<）
 - [ ] teapot123
 - [ ] SkyeCaffery
 - [ ] Yanjk
