@@ -1,4 +1,4 @@
-# Git Practice
+﻿# Git Practice
 
 大家都知道了，git 在开发的过程中十分，十分，十分重要 = =
 
@@ -55,7 +55,7 @@ Fork 本仓库，在别人的游戏建议文件中吐槽，发起 Pull Request
 ## 完成进度
 
 - [ ] huangxf14
-- [ ] cai-lw
+- [x] @cai-lw
 - [ ] teapot123
 - [ ] SkyeCaffery
 - [ ] Yanjk
