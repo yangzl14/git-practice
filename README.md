@@ -65,7 +65,7 @@ Fork 本仓库，在别人的游戏建议文件中吐槽，发起 Pull Request
 - [x] @cai-lw
 - [ ] @teapot123
 - [ ] SkyeCaffery
-- [ ] Yanjk
+- [ ] @Yanjk
 - [x] @wangqr
 - [ ] Ma-Xujie
 - [ ] haldak
