@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+﻿我要吐槽吐槽~~没什么好吐的...
+=======
 ﻿# Git Practice
 
 大家都知道了，git 在开发的过程中十分，十分，十分重要 = =
@@ -54,9 +57,10 @@ Fork 本仓库，在别人的游戏建议文件中吐槽，发起 Pull Request
 
 ## 完成进度
 
+- [x] @Kevin-Wang95
 - [ ] huangxf14
 - [x] @cai-lw
-- [ ] teapot123
+- [ ] @teapot123
 - [ ] SkyeCaffery
 - [ ] Yanjk
 - [x] @wangqr
@@ -64,7 +68,7 @@ Fork 本仓库，在别人的游戏建议文件中吐槽，发起 Pull Request
 - [ ] haldak
 - [ ] 13aeon
 - [ ] giantfish
-- [ ] caojm14
+- [ ] @caojm14
 - [ ] topriss
 - [ ] lzhbrian
 - [ ] Guy2326
@@ -81,3 +85,4 @@ Fork 本仓库，在别人的游戏建议文件中吐槽，发起 Pull Request
 [git - 简明教程](http://rogerdudler.github.io/git-guide/index.zh.html)
 
 [GitHub 官方支持的在线教程](https://try.github.io)
+>>>>>>> feature1
