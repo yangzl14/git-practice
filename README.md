@@ -61,7 +61,7 @@ Fork 本仓库，在别人的游戏建议文件中吐槽，发起 Pull Request
 - [ ] SkyeCaffery
 - [ ] Yanjk
 - [x] @wangqr
-- [ ] Ma-Xujie
+- [ ] @Ma-Xujie
 - [ ] haldak
 - [ ] 13aeon
 - [ ] giantfish
