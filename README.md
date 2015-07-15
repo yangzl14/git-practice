@@ -1,4 +1,4 @@
-﻿# Git Practice
+# Git Practice
 
 大家都知道了，git 在开发的过程中十分，十分，十分重要 = =
 
@@ -9,7 +9,7 @@
 我们会跟踪大家对 git 的学习和掌握情况 ↖(￣▽￣")
 
 Designed by @ThomasLee969.
-呵呵
+
 
 ## git 练习
 
