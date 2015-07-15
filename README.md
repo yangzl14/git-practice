@@ -1,4 +1,4 @@
-# Git Practice
+﻿# Git Practice
 
 大家都知道了，git 在开发的过程中十分，十分，十分重要 = =
 
@@ -10,7 +10,7 @@
 
 Designed by @ThomasLee969.
 
-
+反反复复
 ## git 练习
 
 1. 从 develop 分支上创建一个新分支，名字为你的 GitHub 用户名
