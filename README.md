@@ -1,4 +1,4 @@
-# Git Practice
+﻿# Git Practice
 
 大家都知道了，git 在开发的过程中十分，十分，十分重要 = =
 
@@ -59,19 +59,21 @@ Fork 本仓库，在别人的游戏建议文件中吐槽，发起 Pull Request
 - [x] @cai-lw
 - [ ] @teapot123
 - [ ] SkyeCaffery
-- [ ] Yanjk
+- [ ] @Yanjk
 - [x] @wangqr
-- [ ] Ma-Xujie
+- [ ] @Ma-Xujie
 - [ ] haldak
 - [ ] 13aeon
 - [ ] giantfish
 - [ ] @caojm14
 - [ ] topriss
-- [ ] lzhbrian
+- [ ] @lzhbrian
 - [ ] Guy2326
-- [ ] liuchangdm
-- [ ] weiyh14
-- [ ] Silverbottle
+- [ ] @liuchangdm
+- [ ] @weiyh14
+- [ ] @Silverbottle
+- [ ] @guanjq
+- [ ] cuishuhao
 - [x] @ThomasLee969
 
 
