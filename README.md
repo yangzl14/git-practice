@@ -63,7 +63,7 @@ Fork 本仓库，在别人的游戏建议文件中吐槽，发起 Pull Request
 - [x] @wangqr
 - [ ] @Ma-Xujie
 - [ ] haldak
-- [ ] 13aeon
+- [ ] @13aeon
 - [ ] giantfish
 - [ ] @caojm14
 - [ ] topriss
