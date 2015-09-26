@@ -1,6 +1,6 @@
+**大家注意这个练习正在修改，大家明天（2015-09-27）再来看！！！！！！！！**
 
-
-﻿# Git Practice
+# Git Practice
 
 大家都知道了，git 在开发的过程中十分，十分，十分重要 = =
 
@@ -12,6 +12,9 @@
 
 Designed by @ThomasLee969.
 
+## 准备工作
+
+**Fork 这个仓库，在 Fork 出的仓库中操作**
 
 ## git 练习
 
@@ -21,7 +24,6 @@ Designed by @ThomasLee969.
 4. revert 掉步骤 2 对应的提交
 5. 将你的这个分支 merge 进 develop 分支，**No fast-forward**
 6. push 你的分支和 develop 分支
-
 
 ## git-flow 练习
 
@@ -56,33 +58,18 @@ Fork 本仓库，在别人的游戏建议文件中吐槽，发起 Pull Request
 
 ## 完成进度
 
-- [x] @Kevin-Wang95
-- [ ] @huangxf14
-- [x] @cai-lw
-- [ ] @teapot123
-- [ ] SkyeCaffery
-- [ ] @Yanjk
-- [x] @wangqr
-- [ ] @Ma-Xujie
-- [ ] haldak
-- [ ] @13aeon
-- [ ] giantfish
-- [ ] @caojm14
-- [ ] topriss
-- [ ] @lzhbrian
-- [ ] Guy2326
-- [ ] @liuchangdm
-- [ ] @weiyh14
-- [ ] @Silverbottle
-- [ ] @guanjq
-- [ ] cuishuhao
-- [x] @ThomasLee969
-
-
 ## git 教程
 
-[Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+以下教程难度由易到难，内容从简明到详尽~
 
-[git - 简明教程](http://rogerdudler.github.io/git-guide/index.zh.html)
+- [git - 简明教程](http://rogerdudler.github.io/git-guide/index.zh.html)
+    > “助你入门 git 的简明指南，木有高深内容 ;)”
 
-[GitHub 官方支持的在线教程](https://try.github.io)
+- [tryGit](https://try.github.io)
+    > “Got 15 minutes and want to learn Git?”
+
+- [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+    > “史上最浅显易懂的Git教程！”
+
+- [Pro Git](http://git-scm.com/book/zh/v2)
+    > "Fully-updated guide to Git and its usage in the modern world."
